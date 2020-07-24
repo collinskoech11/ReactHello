@@ -16,6 +16,8 @@ class App extends Component {
         </p>
         <HelloWorld name="collins"/>
       </div>
+
+      
     );
   }
 }
